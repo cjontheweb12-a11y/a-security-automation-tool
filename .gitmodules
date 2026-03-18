@@ -1,0 +1,9 @@
+[submodule "pkg/scaffold"]
+	path = pkg/scaffold
+	url = git@github.com:nortonlifelock/scaffold.git
+[submodule "pkg/job"]
+	path = pkg/job
+	url = git@github.com:nortonlifelock/job.git
+[submodule "pkg/funnel"]
+	path = pkg/funnel
+	url = git@github.com:nortonlifelock/funnel.git
